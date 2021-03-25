@@ -1,2 +1,0 @@
-C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\Abstraction\Abstraction\obj\Debug\Abstraction.csprojAssemblyReference.cache
-C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
