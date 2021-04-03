@@ -5,3 +5,10 @@ C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\AccountClass\AccountClass\obj\Debug\
 C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\AccountClass\AccountClass\obj\Debug\AccountClass.csproj.CoreCompileInputs.cache
 C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\AccountClass\AccountClass\obj\Debug\AccountClass.exe
 C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\AccountClass\AccountClass\obj\Debug\AccountClass.pdb
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\AccountClass\AccountClass\bin\Debug\AccountClass.exe.config
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\AccountClass\AccountClass\bin\Debug\AccountClass.exe
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\AccountClass\AccountClass\bin\Debug\AccountClass.pdb
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\AccountClass\AccountClass\obj\Debug\AccountClass.csprojAssemblyReference.cache
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\AccountClass\AccountClass\obj\Debug\AccountClass.csproj.CoreCompileInputs.cache
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\AccountClass\AccountClass\obj\Debug\AccountClass.exe
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\AccountClass\AccountClass\obj\Debug\AccountClass.pdb

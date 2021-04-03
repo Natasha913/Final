@@ -1,0 +1,7 @@
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\TestInterface\TestInterface\obj\Debug\TestInterface.csprojAssemblyReference.cache
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\TestInterface\TestInterface\obj\Debug\TestInterface.csproj.CoreCompileInputs.cache
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\TestInterface\TestInterface\bin\Debug\TestInterface.exe.config
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\TestInterface\TestInterface\bin\Debug\TestInterface.exe
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\TestInterface\TestInterface\bin\Debug\TestInterface.pdb
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\TestInterface\TestInterface\obj\Debug\TestInterface.exe
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\TestInterface\TestInterface\obj\Debug\TestInterface.pdb
