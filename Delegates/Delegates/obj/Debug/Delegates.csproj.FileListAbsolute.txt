@@ -1,0 +1,7 @@
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\Delegates\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\final\Delegates\Delegates\obj\Debug\Delegates.pdb

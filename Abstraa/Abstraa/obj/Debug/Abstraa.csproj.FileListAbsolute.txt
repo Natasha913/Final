@@ -1,7 +1,0 @@
-C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Abstraa\Abstraa\bin\Debug\Abstraa.exe.config
-C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Abstraa\Abstraa\bin\Debug\Abstraa.exe
-C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Abstraa\Abstraa\bin\Debug\Abstraa.pdb
-C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Abstraa\Abstraa\obj\Debug\Abstraa.csprojAssemblyReference.cache
-C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Abstraa\Abstraa\obj\Debug\Abstraa.csproj.CoreCompileInputs.cache
-C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Abstraa\Abstraa\obj\Debug\Abstraa.exe
-C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Abstraa\Abstraa\obj\Debug\Abstraa.pdb

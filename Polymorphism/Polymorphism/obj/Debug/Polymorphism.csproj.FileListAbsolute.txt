@@ -1,7 +1,0 @@
-C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe.config
-C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe
-C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Polymorphism\Polymorphism\bin\Debug\Polymorphism.pdb
-C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csprojAssemblyReference.cache
-C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
-C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Polymorphism\Polymorphism\obj\Debug\Polymorphism.exe
-C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\Polymorphism\Polymorphism\obj\Debug\Polymorphism.pdb
